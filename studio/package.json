@@ -3,7 +3,7 @@
   "name": "sanity-kitchen-sink-studio",
   "version": "1.0.5",
   "main": "package.json",
-  "author": "Sanity <hello@sanity.io>",
+  "author": "Steve M <stevechez@gmail.com>",
   "scripts": {
     "dev": "sanity start",
     "format": "prettier-eslint --write \"**/*.js\" \"!node_modules/**\"",
